@@ -1,2 +1,2 @@
 # HTML-CSS-JS-PROJECTS
-Web Dev Projects
+Build this amzing Digital Clock Using Html, CSS, Js
